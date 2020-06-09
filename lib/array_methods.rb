@@ -1,5 +1,5 @@
 def using_include(array, element)
-array.sort
+numbers.sort
 end
 
 def using_sort(array)
